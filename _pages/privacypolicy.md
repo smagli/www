@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Политика за поверителност
 include_in_header: false
 ---
 
