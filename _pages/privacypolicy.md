@@ -2,6 +2,7 @@
 layout: page
 title: Политика за поверителност
 include_in_header: false
+include_in_footer: false
 ---
 
 **Last updated**  

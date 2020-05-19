@@ -12,8 +12,8 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Списък                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Безплатно                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : За да имате повече време за хората които обичате
-
+app_description                           : За да освободите време за хората които обичате
+video                                     : https://www.youtube.com/embed/LQ0BlrRadCM?rel=0&vq=hd1080&yt:stretch=16:9
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
